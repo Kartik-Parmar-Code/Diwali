@@ -3,9 +3,10 @@ body{
 }
 
 h1 {
-  margin-left: 330px;
+ margin-left: 210px;
     color: white;
-    margin-top: 200px;
+    font-size: 65px;
+    margin-top: 600px;
 }
 
 .content {
